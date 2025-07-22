@@ -1,1 +1,2 @@
-# Bootcamp-proramacion
+# Bootcamp-programacion
+mi primer repositorio 
